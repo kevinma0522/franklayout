@@ -1558,5 +1558,5 @@ a.status-button:hover {
 }
 footer #footer-block,.root {display: none !important;}
 .list-container .cover-block {
-    background-image: url("https://i.imgur.com/af14sFT.png") !important;
+    background-image: url("https://i.imgur.com/LmA7lVr.png") !important;
 }
